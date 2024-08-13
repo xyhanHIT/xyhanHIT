@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2 align="center">Hi 👋, I'm Xiaoyu Han (韩潇宇) </h2>
+
+### ✨ Quick Facts
+- 🤗 I am currently a Ph.D. student in Harbin Institute of Technology supervised by Prof. Shengping Zhang.
+
+- 👀 My research interests include virtual try-on and brain signal decoding.
+
+- 📧 Email me at: **xyhan@stu.hit.edu.cn**
+
+- 📫 My personal webpage: **https://xiaoyuhanhit.github.io**
+
+- 📄 My Google scholar webpage: **https://scholar.google.com/citations?user=nAHH79oAAAAJ**
