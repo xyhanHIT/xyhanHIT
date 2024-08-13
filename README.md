@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 - 📧 Email me at: **xyhan@stu.hit.edu.cn**
 
-- 📫 My personal webpage: **https://xiaoyuhanhit.github.io**
+- 📫 My personal webpage: **https://xyhanhit.github.io**
 
 - 📄 My Google scholar webpage: **https://scholar.google.com/citations?user=nAHH79oAAAAJ**
