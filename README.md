@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 - 📫 My personal webpage: **https://xyhanhit.github.io**
 
-- 📄 My Google scholar webpage: **https://scholar.google.com/citations?user=nAHH79oAAAAJ**
+- 📄 My Google scholar webpage: **https://scholar.google.com.hk/citations?user=WBUP-qgAAAAJ**
